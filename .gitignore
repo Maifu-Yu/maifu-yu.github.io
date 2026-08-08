@@ -5,6 +5,11 @@ _site/
 # Ignore the directory for local files during development
 local/
 
+# Ignore local Ruby/gem build artifacts
+.gems/
+.gemhome/
+vendor/
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
