@@ -1,16 +1,34 @@
 ---
 permalink: /
-title: "Maifu"
+title: "Maifu Yu"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome! I am Maifu Yu, a senior undergraduate student majoring in **Biology** at [Lanzhou University](https://en.lzu.edu.cn/) (National Basic Subject Top-Notch Talent Program, Cuiying Honors College), expecting to graduate in 2026.
 
-A data-driven personal website
+My research lies at the intersection of **neuroscience**, **bioelectricity**, and **computational biology**. I am fascinated by how bioelectric signals shape the nervous system — from the mechanisms of bioelectronic medicine to the quantitative tools (3D reconstruction, image analysis, genomics) that make modern neurobiology measurable. In the long run, I aim to become an independent researcher building a lab at the interface of neuroscience and bioelectricity, where bioelectronic approaches can open new doors for brain–computer interfaces and brain repair.
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Neuroscience and bioelectricity, including bioelectronic medicine and brain–computer interfaces
+* Computational biology and bioinformatics (RNA-seq, ATAC-seq, data visualization)
+* Tool development for biomedical research (3D reconstruction, image analysis, machine learning)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Selected Highlights
+======
+* First author of a peer-reviewed review article in *Trends in Molecular Medicine* (2023)
+* Research at the University of Toronto, UC San Francisco, the Chinese Academy of Sciences, and NIBS Beijing
+* Visiting student at UC Berkeley (Berkeley International Study Program, 2025)
+
+Download My CV
+======
+* [Download CV (PDF)](/files/CV-Maifu.pdf)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=KWB_P10AAAAJ)
+* [GitHub](https://github.com/Maifu-Yu)
+
+Contact
+======
+stepviewyu@gmail.com
