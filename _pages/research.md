@@ -7,16 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Current Research
-======
 
 **Huang Lab, University of Toronto** — Nov. 2025 – May 2026 (remote)
 Supervisor: Prof. Xi Huang
 
 Investigating the function and expression of human-specific genomic elements in medulloblastoma using public datasets including RNA-seq and ATAC-seq. Screened a series of candidate genes encoded by — or regulated by — these elements for further functional studies.
-
-Previous Research
-======
 
 **Fu & Ptáček Lab, University of California, San Francisco** — Mar. 2025 – Jun. 2025
 Supervisors: Prof. Ying-Hui Fu & Louis J. Ptáček
