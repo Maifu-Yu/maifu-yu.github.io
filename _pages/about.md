@@ -7,21 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Maifu Yu,  **Biology** at [Lanzhou University](https://en.lzu.edu.cn/) (National Basic Subject Top-Notch Talent Program, Cuiying Honors College), expecting to graduate in 2026.
+Welcome! I am Maifu Yu. I graduated from [Lanzhou University](https://en.lzu.edu.cn/) (National Basic Subject Top-Notch Talent Program, Cuiying Honors College) with a B.S. degree in Biology in 2026.
 
-My research lies at the intersection of **neuroscience**, **bioelectricity**, and **computational biology**. I am fascinated by how bioelectric signals shape the nervous system — from the mechanisms of bioelectronic medicine to the quantitative tools (3D reconstruction, image analysis, genomics) that make modern neurobiology measurable. In the long run, I aim to become an independent researcher building a lab at the interface of neuroscience and bioelectricity, where bioelectronic approaches can open new doors for brain–computer interfaces and brain repair.
+My research lies at the intersection of **neuroscience**, **aging biology**, **bioelectricity**, and **computational biology**. In a long-term, I plan to dedicate the next 10 years to laying the foundation for my cause and to develop into an independent researcher who can make sustained contributions to biology. In a short-term, I simply plan to enjoy science and try to make myself and my science better and better. 
 
 Research Interests
 ======
 * Neuroscience and bioelectricity, including bioelectronic medicine and brain–computer interfaces
+* Aging Biology, including cellular senescence, age-related diseases, and mechanisms of aging
 * Computational biology and bioinformatics (RNA-seq, ATAC-seq, data visualization)
 * Tool development for biomedical research (3D reconstruction, image analysis, machine learning)
 
-Selected Highlights
+Skills
 ======
-* First author of a peer-reviewed review article in *Trends in Molecular Medicine* (2023)
-* Research at the University of Toronto, UC San Francisco, the Chinese Academy of Sciences, and NIBS Beijing
-* Visiting student at UC Berkeley (Berkeley International Study Program, 2025)
+* Computer Skills: Python, C++, C, R, Bioinformatics Analysis, Data Visualization, Modeling for 3D Printing, Machine Learning, AI Fine-tuning.
+* Experimental Skills: Cell Culture Techniques, Molecular Biology Techniques, Mouse Surgery and Tissue Processing, EEG.
+
+Interests
+======
+* Motorcycle
+* Skiing
+* Reading
+* Coding
 
 Download My CV
 ======
