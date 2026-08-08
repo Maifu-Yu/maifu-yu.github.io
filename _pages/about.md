@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Maifu Yu, a senior undergraduate student majoring in **Biology** at [Lanzhou University](https://en.lzu.edu.cn/) (National Basic Subject Top-Notch Talent Program, Cuiying Honors College), expecting to graduate in 2026.
+Welcome! I am Maifu Yu,  **Biology** at [Lanzhou University](https://en.lzu.edu.cn/) (National Basic Subject Top-Notch Talent Program, Cuiying Honors College), expecting to graduate in 2026.
 
 My research lies at the intersection of **neuroscience**, **bioelectricity**, and **computational biology**. I am fascinated by how bioelectric signals shape the nervous system — from the mechanisms of bioelectronic medicine to the quantitative tools (3D reconstruction, image analysis, genomics) that make modern neurobiology measurable. In the long run, I aim to become an independent researcher building a lab at the interface of neuroscience and bioelectricity, where bioelectronic approaches can open new doors for brain–computer interfaces and brain repair.
 
